@@ -1,4 +1,4 @@
-# NLW eSports
+# Landing Page
 
 ![preview](./.github/preview.png)
 
